@@ -1,1 +1,19 @@
-TODO: Add your license here.
+---
+
+## **2️⃣ `CHANGELOG.md`**
+
+```markdown
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+## [0.0.1] - 2025-09-18
+
+### Added
+
+- Initial release of `social_login_provider`.
+- Supports Google, Apple, and Facebook login.
+- Returns `SocialUser` object with userId, email, fullName, and image.
+- Apple login supports secure storage for email and full name.
+- Fully documented API and example app included.
+```
